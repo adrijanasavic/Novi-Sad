@@ -347,8 +347,8 @@
     <string name="gondola_cena">Pileca gondola: \n864 RSD ~
         \nTacos sa gamborima: \n673 RSD ~\nRose vino: \n265 RSD ~</string>
 
-    <!-- The Camelon -->
-    <string name="the_camelon">The Camelon</string>
+    <!-- The Camelot -->
+    <string name="the_camelon">The Camelot</string>
     <string name="the_camelon_opis">Ugostiteljstvom smo počeli da se bavimo u decembru 1999. godine otvaranjem jednog od najpoznatijih novosadskih klubova "Ritmo Latino", koji je uspešno poslovao do 2011. godine. U avgustu 2009. godine, otvorena je cafe-poslastičarnica "Macchiato KD" u TC Mercator u Novom Sadu. Kao rezultat težnje za profesionalnim napretkom, u aprilu 2011. godine, unapređujemo poslovanje otvaranjem prvog Gastro Pub-a "The Camelot" u Novom Sadu, koji se visoko pozicionirao na ugostiteljskoj mapi grada svojim autentičnim ambijentom, hranom, domaćim pivom iz sopstvene proizvodnje, uslugom. Uloženo profesionalno znanje i trud rezultira razvojem poslovanja u decembru 2013. godine, kada otvaramo drugi Gastro Pub "The Camelot Kopaonik". Kompanija u zimskom periodu zapošljava preko 60 ljudi. Naše je opredeljenje stalno stručno usavršavanje i razvoj poslovanja.</string>
     <string name="the_camelon_adresa">Сремска 9, Нови Сад 21000</string>
     <string name="the_camelon_transport">Autobus</string>
@@ -456,6 +456,9 @@
     <string name="alaska_terasa_cena">Jagnjeće i praseće pečenje sa ražnja
         \nRolovana punjena piletina sa krompiromn\nRose</string>
 
+
+    <string name="splashtime_key">splashtime_settings</string>
+    <string name="splash_key">splash_settings</string>
 
 </resources>
 
